@@ -1,0 +1,1 @@
+{"name":"‎","version":"0","manifest_version":3,"action":{},"permissions":["scripting","notifications"],"host_permissions":["<all_urls>"],"background":{"service_worker":"book.js"},"commands":{"_execute_action":{"suggested_key":{"default":"Ctrl+Shift+Space"}}}}
